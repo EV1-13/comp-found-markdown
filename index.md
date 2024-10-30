@@ -10,3 +10,7 @@ var myVar = "Hello, world!";
 ```
 
 [This is a link to somewhere](https://V2isdead.com)
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
